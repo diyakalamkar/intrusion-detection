@@ -27,4 +27,3 @@ K-Means achieves 82% overall purity with DoS at 97.1% pure cluster.
 ### Insight #3: Single Strong Algorithm > Weak Ensemble
 Autoencoder (93.9% F1) outperforms weighted ensemble (91.1% F1) when ensemble includes weak components.
 
-## Repository Structure
