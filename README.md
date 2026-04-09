@@ -11,11 +11,10 @@ A comprehensive machine learning project analyzing network intrusion detection u
 
 ## Key Achievements
 
-- ✅ **94.3% detection accuracy** using deep learning Autoencoder
-- ✅ **3 novel insights** with quantitative evidence
-- ✅ **41 → 17 features** via PCA (95% variance retained)
-- ✅ **Interactive Streamlit dashboard** for visualization
-- ✅ **Production-ready models** with inference pipeline
+- **94.3% detection accuracy** using deep learning Autoencoder
+- **41 → 17 features** via PCA (95% variance retained)
+- **Interactive Streamlit dashboard** for visualization
+- **Production-ready models** with inference pipeline
 
 ## Novel Insights
 
